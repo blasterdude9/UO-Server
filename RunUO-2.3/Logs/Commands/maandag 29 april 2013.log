@@ -1,0 +1,46 @@
+##############################
+Log started on 29/04/2013 19:15:18
+
+29/04/2013 19:15:44: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'props '
+29/04/2013 19:15:59: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+29/04/2013 19:16:54: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+29/04/2013 19:16:56: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400055D4 (RustyIngot)
+29/04/2013 19:16:57: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+29/04/2013 19:16:59: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400059F8 (PlateArms)
+29/04/2013 19:17:00: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+29/04/2013 19:17:01: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400000FF (PlateArms)
+29/04/2013 19:17:01: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+29/04/2013 19:17:02: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x4000542C (GoldIngot)
+29/04/2013 19:17:14: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'addtopack rustyingot 20'
+29/04/2013 19:17:16: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1492, 1638, 40) in Trammel: "rustyingot" "20"
+29/04/2013 19:17:16: 127.0.0.1: Serials: 0x400000F7; 
+29/04/2013 19:17:38: 127.0.0.1: Crafting 0x400000FF (PlateArms) with craft system DefBlacksmithy
+29/04/2013 19:18:01: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+29/04/2013 19:18:06: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400000FF (PlateArms)
+29/04/2013 19:18:11: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+29/04/2013 19:18:12: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400000F7 (RustyIngot)
+##############################
+Log started on 29/04/2013 19:43:50
+
+29/04/2013 20:20:12: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'addtopack goldingot 200'
+29/04/2013 20:20:14: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1492, 1637, 40) in Trammel: "goldingot" "200"
+29/04/2013 20:20:14: 127.0.0.1: Serials: 0x40006357; 
+29/04/2013 20:20:23: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set str 120'
+29/04/2013 20:20:26: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'str' of 0x1 "Drabzes" ('giel') to '120'
+29/04/2013 20:24:11: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'add horse'
+29/04/2013 20:24:12: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1493, 1642, 40) in Trammel: "horse"
+29/04/2013 20:24:12: 127.0.0.1: Serials: 0x977; 
+##############################
+Log started on 29/04/2013 22:10:52
+
+29/04/2013 22:19:48: 127.0.0.1: Crafting 0x40006068 (PlateLegs) with craft system DefBlacksmithy
+29/04/2013 22:19:54: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'props '
+29/04/2013 22:21:08: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'Name' of 0x40006068 (PlateLegs) to 'Giel'
+29/04/2013 22:21:26: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'Name' of 0x40006068 (PlateLegs) to 'null'
+29/04/2013 22:21:35: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'Name' of 0x40006068 (PlateLegs) to '(null)'
+##############################
+Log started on 29/04/2013 23:16:40
+
+##############################
+Log started on 29/04/2013 23:20:47
+

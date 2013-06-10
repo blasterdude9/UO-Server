@@ -1,0 +1,189 @@
+24/04/2013 17:34:56: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'go britain'
+24/04/2013 17:35:19: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'add horse'
+24/04/2013 17:35:20: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1443, 1690, 0) in Trammel: "horse"
+24/04/2013 17:35:20: 127.0.0.1: Serials: 0x949; 
+24/04/2013 21:57:15: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+24/04/2013 21:57:17: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400000E7 (Backpack)
+24/04/2013 21:57:20: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'add backpack'
+24/04/2013 21:57:21: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (3652, 2624, 0) in Trammel: "backpack"
+24/04/2013 21:57:21: 127.0.0.1: Serials: 0x400000F6; 
+24/04/2013 21:57:36: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'addtopack deusingot 20'
+24/04/2013 21:57:37: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (3652, 2625, 0) in Trammel: "deusingot" "20"
+24/04/2013 21:57:37: 127.0.0.1: Serials: 0x400000F7; 
+24/04/2013 21:57:41: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'go britain'
+24/04/2013 21:57:44: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'tele '
+24/04/2013 21:57:58: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'addtopack smithammer'
+24/04/2013 21:58:00: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1492, 1638, 40) in Trammel: "smithammer"
+24/04/2013 21:58:05: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'addtopack smithhammer'
+24/04/2013 21:58:06: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1492, 1638, 40) in Trammel: "smithhammer"
+24/04/2013 21:58:06: 127.0.0.1: Serials: 0x400000FA; 
+24/04/2013 21:58:11: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'add anvil'
+24/04/2013 21:58:13: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1490, 1636, 40) in Trammel: "anvil"
+24/04/2013 21:58:13: 127.0.0.1: Serials: 0x400000FB; 
+24/04/2013 21:58:17: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'add forge'
+24/04/2013 21:58:18: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1491, 1636, 40) in Trammel: "forge"
+24/04/2013 21:58:18: 127.0.0.1: Serials: 0x400000FC; 
+24/04/2013 21:58:33: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'setallskills 100'
+24/04/2013 21:58:34: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'EverySkill.Base' of 0x1 "Drabzes" ('giel') to '100'
+24/04/2013 21:59:16: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set dex'
+24/04/2013 21:59:20: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set dex 100'
+24/04/2013 21:59:21: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'dex' of 0x1 "Drabzes" ('giel') to '100'
+24/04/2013 21:59:26: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set str 100'
+24/04/2013 21:59:26: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'str' of 0x1 "Drabzes" ('giel') to '100'
+24/04/2013 21:59:32: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set int 100'
+24/04/2013 21:59:33: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'int' of 0x1 "Drabzes" ('giel') to '100'
+24/04/2013 22:00:00: 127.0.0.1: Crafting 0x40000103 (PlateArms) with craft system DefBlacksmithy
+24/04/2013 22:00:27: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'add book'
+24/04/2013 22:00:56: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'add necr'
+24/04/2013 22:00:58: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1491, 1638, 40) in Trammel: "NecromancerSpellbook"
+24/04/2013 22:00:58: 127.0.0.1: Serials: 0x400000EF; 
+24/04/2013 22:01:15: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'add necr'
+24/04/2013 22:01:22: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1491, 1639, 40) in Trammel: "ANecromancerShroud"
+24/04/2013 22:01:22: 127.0.0.1: Serials: 0x400000F0; 
+24/04/2013 22:01:28: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+24/04/2013 22:01:29: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400000F0 (ANecromancerShroud)
+24/04/2013 22:03:25: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'allspells '
+24/04/2013 22:03:27: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') filling spellbook 0x400000EF (NecromancerSpellbook)
+24/04/2013 22:04:45: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+24/04/2013 22:04:47: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400000EF (NecromancerSpellbook)
+24/04/2013 22:04:48: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+24/04/2013 22:04:49: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400000EC (ShepherdsCrook)
+24/04/2013 22:11:41: 127.0.0.1: Crafting 0x400000FF (PlateArms) with craft system DefBlacksmithy
+28/04/2013 17:20:54: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+28/04/2013 17:20:55: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400000FF (PlateArms)
+28/04/2013 17:20:56: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+28/04/2013 17:20:57: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400000F7 (DeusIngot)
+28/04/2013 17:21:07: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'addtopack rustyingot 20'
+28/04/2013 17:21:08: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1492, 1639, 40) in Trammel: "rustyingot" "20"
+28/04/2013 17:21:08: 127.0.0.1: Serials: 0x400000F7; 
+28/04/2013 17:21:34: 127.0.0.1: Crafting 0x400000FF (PlateArms) with craft system DefBlacksmithy
+28/04/2013 17:48:26: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'addtopack rustyingot 20'
+28/04/2013 17:48:27: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1492, 1638, 40) in Trammel: "rustyingot" "20"
+28/04/2013 17:48:27: 127.0.0.1: Serials: 0x400055D4; 
+28/04/2013 17:48:29: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+28/04/2013 17:48:31: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400000F7 (DeusIngot)
+28/04/2013 17:48:32: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+28/04/2013 17:48:33: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400000FF (PlateArms)
+28/04/2013 17:48:47: 127.0.0.1: Crafting 0x40005862 (PlateArms) with craft system DefBlacksmithy
+28/04/2013 17:51:37: 127.0.0.1: Crafting 0x400000FF (PlateArms) with craft system DefBlacksmithy
+28/04/2013 17:52:04: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'addtopack goldingot 20'
+28/04/2013 17:52:05: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1492, 1638, 40) in Trammel: "goldingot" "20"
+28/04/2013 17:52:05: 127.0.0.1: Serials: 0x4000542C; 
+28/04/2013 17:52:24: 127.0.0.1: Crafting 0x400059F8 (PlateArms) with craft system DefBlacksmithy
+28/04/2013 17:53:30: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'props '
+29/04/2013 19:15:44: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'props '
+29/04/2013 19:15:59: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+29/04/2013 19:16:54: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+29/04/2013 19:16:56: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400055D4 (RustyIngot)
+29/04/2013 19:16:57: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+29/04/2013 19:16:59: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400059F8 (PlateArms)
+29/04/2013 19:17:00: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+29/04/2013 19:17:01: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400000FF (PlateArms)
+29/04/2013 19:17:01: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+29/04/2013 19:17:02: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x4000542C (GoldIngot)
+29/04/2013 19:17:14: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'addtopack rustyingot 20'
+29/04/2013 19:17:16: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1492, 1638, 40) in Trammel: "rustyingot" "20"
+29/04/2013 19:17:16: 127.0.0.1: Serials: 0x400000F7; 
+29/04/2013 19:17:38: 127.0.0.1: Crafting 0x400000FF (PlateArms) with craft system DefBlacksmithy
+29/04/2013 19:18:01: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+29/04/2013 19:18:06: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400000FF (PlateArms)
+29/04/2013 19:18:11: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+29/04/2013 19:18:12: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400000F7 (RustyIngot)
+29/04/2013 20:20:12: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'addtopack goldingot 200'
+29/04/2013 20:20:14: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1492, 1637, 40) in Trammel: "goldingot" "200"
+29/04/2013 20:20:14: 127.0.0.1: Serials: 0x40006357; 
+29/04/2013 20:20:23: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set str 120'
+29/04/2013 20:20:26: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'str' of 0x1 "Drabzes" ('giel') to '120'
+29/04/2013 20:24:11: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'add horse'
+29/04/2013 20:24:12: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1493, 1642, 40) in Trammel: "horse"
+29/04/2013 20:24:12: 127.0.0.1: Serials: 0x977; 
+29/04/2013 22:19:48: 127.0.0.1: Crafting 0x40006068 (PlateLegs) with craft system DefBlacksmithy
+29/04/2013 22:19:54: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'props '
+29/04/2013 22:21:08: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'Name' of 0x40006068 (PlateLegs) to 'Giel'
+29/04/2013 22:21:26: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'Name' of 0x40006068 (PlateLegs) to 'null'
+29/04/2013 22:21:35: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'Name' of 0x40006068 (PlateLegs) to '(null)'
+22/05/2013 19:05:58: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'add dex 100'
+22/05/2013 19:06:06: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set dex 100'
+22/05/2013 19:06:08: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'dex' of 0x1 "Drabzes" ('giel') to '100'
+22/05/2013 19:34:52: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+22/05/2013 19:34:54: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400000F3 (Doublet)
+22/05/2013 19:34:55: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+22/05/2013 19:34:55: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400000F4 (ShortPants)
+22/05/2013 19:34:56: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+22/05/2013 19:34:57: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400000ED (Robe)
+22/05/2013 19:34:59: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+22/05/2013 19:35:00: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x40006068 (PlateLegs)
+22/05/2013 19:35:03: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'add robe'
+22/05/2013 19:35:04: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1492, 1638, 40) in Trammel: "robe"
+22/05/2013 19:35:04: 127.0.0.1: Serials: 0x400062C8; 
+27/05/2013 20:57:59: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'add plate'
+27/05/2013 20:58:00: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1494, 1638, 40) in Trammel: "plate"
+27/05/2013 20:58:00: 127.0.0.1: Serials: 0x400000ED; 
+27/05/2013 20:58:04: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+27/05/2013 20:58:05: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400000ED (Plate)
+27/05/2013 20:58:09: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'add '
+27/05/2013 20:58:38: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'add arms'
+27/05/2013 20:59:01: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1494, 1637, 40) in Trammel: "PlateArms"
+27/05/2013 20:59:01: 127.0.0.1: Serials: 0x400000F3; 
+27/05/2013 20:59:08: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1495, 1638, 40) in Trammel: "PlateChest"
+27/05/2013 20:59:08: 127.0.0.1: Serials: 0x400000F4; 
+27/05/2013 20:59:17: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1494, 1638, 40) in Trammel: "PlateGloves"
+27/05/2013 20:59:17: 127.0.0.1: Serials: 0x400000FF; 
+27/05/2013 20:59:24: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1496, 1638, 40) in Trammel: "PlateGorget"
+27/05/2013 20:59:24: 127.0.0.1: Serials: 0x400055CA; 
+27/05/2013 20:59:33: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1493, 1638, 40) in Trammel: "PlateLegs"
+27/05/2013 20:59:33: 127.0.0.1: Serials: 0x400055D4; 
+27/05/2013 21:00:21: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'add platehelm'
+27/05/2013 21:00:23: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1494, 1639, 40) in Trammel: "platehelm"
+27/05/2013 21:00:23: 127.0.0.1: Serials: 0x40005862; 
+27/05/2013 21:01:16: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'props '
+27/05/2013 21:02:00: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set int 125'
+27/05/2013 21:02:02: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'int' of 0x1 "Drabzes" ('giel') to '125'
+28/05/2013 0:53:08: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'props '
+28/05/2013 0:53:14: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set mana 10'
+28/05/2013 0:53:15: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'mana' of 0x1 "Drabzes" ('giel') to '10'
+28/05/2013 17:06:41: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set dex 100'
+28/05/2013 17:06:43: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'dex' of 0x1 "Drabzes" ('giel') to '100'
+28/05/2013 17:06:47: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set dex 100'
+28/05/2013 17:06:49: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'dex' of 0x1 "Drabzes" ('giel') to '100'
+28/05/2013 17:06:55: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set dex 120'
+28/05/2013 17:06:56: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'dex' of 0x1 "Drabzes" ('giel') to '120'
+28/05/2013 17:07:04: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set str 125'
+28/05/2013 17:07:05: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'str' of 0x1 "Drabzes" ('giel') to '125'
+28/05/2013 17:07:11: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set mana 10'
+28/05/2013 17:07:13: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'mana' of 0x1 "Drabzes" ('giel') to '10'
+28/05/2013 17:07:18: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set mana str 500'
+28/05/2013 17:07:27: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set int 10'
+28/05/2013 17:07:28: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'int' of 0x1 "Drabzes" ('giel') to '10'
+28/05/2013 20:52:57: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set mana 10'
+28/05/2013 20:52:58: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'mana' of 0x1 "Drabzes" ('giel') to '10'
+28/05/2013 21:06:59: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set mana 10'
+28/05/2013 21:07:00: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'mana' of 0x1 "Drabzes" ('giel') to '10'
+28/05/2013 21:22:08: 127.0.0.1: Owner 0x975 "Jafner" ('giel') used command 'set hitpoints 10'
+28/05/2013 21:22:15: 127.0.0.1: Owner 0x975 "Jafner" ('giel') used command 'set hits'
+28/05/2013 21:22:18: 127.0.0.1: Owner 0x975 "Jafner" ('giel') used command 'set hits 10'
+28/05/2013 21:22:19: 127.0.0.1: Owner 0x975 "Jafner" ('giel') set property 'hits' of 0x975 "Jafner" ('giel') to '10'
+28/05/2013 21:30:36: 127.0.0.1: Owner 0x975 "Jafner" ('giel') used command 'set int 125'
+28/05/2013 21:30:38: 127.0.0.1: Owner 0x975 "Jafner" ('giel') set property 'int' of 0x975 "Jafner" ('giel') to '125'
+28/05/2013 21:30:44: 127.0.0.1: Owner 0x975 "Jafner" ('giel') used command 'set mana 10'
+28/05/2013 21:30:46: 127.0.0.1: Owner 0x975 "Jafner" ('giel') set property 'mana' of 0x975 "Jafner" ('giel') to '10'
+28/05/2013 21:31:39: 127.0.0.1: Owner 0x975 "Jafner" ('giel') used command 'set dex 125'
+28/05/2013 21:31:40: 127.0.0.1: Owner 0x975 "Jafner" ('giel') set property 'dex' of 0x975 "Jafner" ('giel') to '125'
+28/05/2013 21:31:48: 127.0.0.1: Owner 0x975 "Jafner" ('giel') used command 'set stamina 10'
+28/05/2013 21:35:07: 127.0.0.1: Owner 0x975 "Jafner" ('giel') used command 'set mana 1'
+28/05/2013 21:35:08: 127.0.0.1: Owner 0x975 "Jafner" ('giel') set property 'mana' of 0x975 "Jafner" ('giel') to '1'
+29/05/2013 16:34:17: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'add froge'
+29/05/2013 16:34:25: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1454, 1636, 40) in Trammel: "Forge"
+29/05/2013 16:34:25: 127.0.0.1: Serials: 0x400000ED; 
+29/05/2013 16:34:35: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1455, 1636, 40) in Trammel: "Anvil"
+29/05/2013 16:34:35: 127.0.0.1: Serials: 0x400059F8; 
+29/05/2013 16:40:30: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'add close'
+29/05/2013 16:40:33: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1454, 1638, 40) in Trammel: "CloseHelm"
+29/05/2013 16:40:33: 127.0.0.1: Serials: 0x4000633E; 
+29/05/2013 16:44:34: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+29/05/2013 16:44:36: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400062C8 (Robe)
+29/05/2013 16:44:37: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+29/05/2013 16:44:38: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x4000633E (CloseHelm)
+29/05/2013 19:29:18: 127.0.0.1: Crafting 0x40006068 (Katana) with craft system DefBlacksmithy
+29/05/2013 19:29:32: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'props '
+29/05/2013 19:30:27: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'Resource' of 0x40006068 (Katana) to 'Gold'

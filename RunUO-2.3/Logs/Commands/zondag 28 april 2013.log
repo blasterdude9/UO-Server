@@ -1,0 +1,40 @@
+##############################
+Log started on 28/04/2013 17:20:06
+
+##############################
+Log started on 28/04/2013 17:20:21
+
+28/04/2013 17:20:54: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+28/04/2013 17:20:55: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400000FF (PlateArms)
+28/04/2013 17:20:56: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+28/04/2013 17:20:57: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400000F7 (DeusIngot)
+28/04/2013 17:21:07: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'addtopack rustyingot 20'
+28/04/2013 17:21:08: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1492, 1639, 40) in Trammel: "rustyingot" "20"
+28/04/2013 17:21:08: 127.0.0.1: Serials: 0x400000F7; 
+28/04/2013 17:21:34: 127.0.0.1: Crafting 0x400000FF (PlateArms) with craft system DefBlacksmithy
+##############################
+Log started on 28/04/2013 17:21:42
+
+##############################
+Log started on 28/04/2013 17:42:44
+
+##############################
+Log started on 28/04/2013 17:43:35
+
+28/04/2013 17:48:26: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'addtopack rustyingot 20'
+28/04/2013 17:48:27: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1492, 1638, 40) in Trammel: "rustyingot" "20"
+28/04/2013 17:48:27: 127.0.0.1: Serials: 0x400055D4; 
+28/04/2013 17:48:29: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+28/04/2013 17:48:31: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400000F7 (DeusIngot)
+28/04/2013 17:48:32: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+28/04/2013 17:48:33: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400000FF (PlateArms)
+28/04/2013 17:48:47: 127.0.0.1: Crafting 0x40005862 (PlateArms) with craft system DefBlacksmithy
+##############################
+Log started on 28/04/2013 17:49:15
+
+28/04/2013 17:51:37: 127.0.0.1: Crafting 0x400000FF (PlateArms) with craft system DefBlacksmithy
+28/04/2013 17:52:04: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'addtopack goldingot 20'
+28/04/2013 17:52:05: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1492, 1638, 40) in Trammel: "goldingot" "20"
+28/04/2013 17:52:05: 127.0.0.1: Serials: 0x4000542C; 
+28/04/2013 17:52:24: 127.0.0.1: Crafting 0x400059F8 (PlateArms) with craft system DefBlacksmithy
+28/04/2013 17:53:30: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'props '

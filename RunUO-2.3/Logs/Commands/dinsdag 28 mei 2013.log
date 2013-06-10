@@ -1,0 +1,66 @@
+##############################
+Log started on 28/05/2013 0:52:52
+
+28/05/2013 0:53:08: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'props '
+28/05/2013 0:53:14: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set mana 10'
+28/05/2013 0:53:15: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'mana' of 0x1 "Drabzes" ('giel') to '10'
+##############################
+Log started on 28/05/2013 0:59:49
+
+##############################
+Log started on 28/05/2013 16:33:38
+
+##############################
+Log started on 28/05/2013 16:37:57
+
+##############################
+Log started on 28/05/2013 17:05:53
+
+28/05/2013 17:06:41: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set dex 100'
+28/05/2013 17:06:43: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'dex' of 0x1 "Drabzes" ('giel') to '100'
+28/05/2013 17:06:47: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set dex 100'
+28/05/2013 17:06:49: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'dex' of 0x1 "Drabzes" ('giel') to '100'
+28/05/2013 17:06:55: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set dex 120'
+28/05/2013 17:06:56: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'dex' of 0x1 "Drabzes" ('giel') to '120'
+28/05/2013 17:07:04: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set str 125'
+28/05/2013 17:07:05: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'str' of 0x1 "Drabzes" ('giel') to '125'
+28/05/2013 17:07:11: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set mana 10'
+28/05/2013 17:07:13: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'mana' of 0x1 "Drabzes" ('giel') to '10'
+28/05/2013 17:07:18: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set mana str 500'
+28/05/2013 17:07:27: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set int 10'
+28/05/2013 17:07:28: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'int' of 0x1 "Drabzes" ('giel') to '10'
+##############################
+Log started on 28/05/2013 17:08:38
+
+##############################
+Log started on 28/05/2013 17:10:21
+
+##############################
+Log started on 28/05/2013 17:11:26
+
+##############################
+Log started on 28/05/2013 20:52:05
+
+28/05/2013 20:52:57: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set mana 10'
+28/05/2013 20:52:58: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'mana' of 0x1 "Drabzes" ('giel') to '10'
+##############################
+Log started on 28/05/2013 20:57:45
+
+##############################
+Log started on 28/05/2013 21:05:54
+
+28/05/2013 21:06:59: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set mana 10'
+28/05/2013 21:07:00: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'mana' of 0x1 "Drabzes" ('giel') to '10'
+28/05/2013 21:22:08: 127.0.0.1: Owner 0x975 "Jafner" ('giel') used command 'set hitpoints 10'
+28/05/2013 21:22:15: 127.0.0.1: Owner 0x975 "Jafner" ('giel') used command 'set hits'
+28/05/2013 21:22:18: 127.0.0.1: Owner 0x975 "Jafner" ('giel') used command 'set hits 10'
+28/05/2013 21:22:19: 127.0.0.1: Owner 0x975 "Jafner" ('giel') set property 'hits' of 0x975 "Jafner" ('giel') to '10'
+28/05/2013 21:30:36: 127.0.0.1: Owner 0x975 "Jafner" ('giel') used command 'set int 125'
+28/05/2013 21:30:38: 127.0.0.1: Owner 0x975 "Jafner" ('giel') set property 'int' of 0x975 "Jafner" ('giel') to '125'
+28/05/2013 21:30:44: 127.0.0.1: Owner 0x975 "Jafner" ('giel') used command 'set mana 10'
+28/05/2013 21:30:46: 127.0.0.1: Owner 0x975 "Jafner" ('giel') set property 'mana' of 0x975 "Jafner" ('giel') to '10'
+28/05/2013 21:31:39: 127.0.0.1: Owner 0x975 "Jafner" ('giel') used command 'set dex 125'
+28/05/2013 21:31:40: 127.0.0.1: Owner 0x975 "Jafner" ('giel') set property 'dex' of 0x975 "Jafner" ('giel') to '125'
+28/05/2013 21:31:48: 127.0.0.1: Owner 0x975 "Jafner" ('giel') used command 'set stamina 10'
+28/05/2013 21:35:07: 127.0.0.1: Owner 0x975 "Jafner" ('giel') used command 'set mana 1'
+28/05/2013 21:35:08: 127.0.0.1: Owner 0x975 "Jafner" ('giel') set property 'mana' of 0x975 "Jafner" ('giel') to '1'

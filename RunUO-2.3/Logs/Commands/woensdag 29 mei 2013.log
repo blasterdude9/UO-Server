@@ -1,0 +1,54 @@
+##############################
+Log started on 29/05/2013 16:33:56
+
+29/05/2013 16:34:17: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'add froge'
+29/05/2013 16:34:25: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1454, 1636, 40) in Trammel: "Forge"
+29/05/2013 16:34:25: 127.0.0.1: Serials: 0x400000ED; 
+29/05/2013 16:34:35: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1455, 1636, 40) in Trammel: "Anvil"
+29/05/2013 16:34:35: 127.0.0.1: Serials: 0x400059F8; 
+29/05/2013 16:40:30: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'add close'
+29/05/2013 16:40:33: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1454, 1638, 40) in Trammel: "CloseHelm"
+29/05/2013 16:40:33: 127.0.0.1: Serials: 0x4000633E; 
+##############################
+Log started on 29/05/2013 16:43:24
+
+29/05/2013 16:44:34: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+29/05/2013 16:44:36: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400062C8 (Robe)
+29/05/2013 16:44:37: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+29/05/2013 16:44:38: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x4000633E (CloseHelm)
+##############################
+Log started on 29/05/2013 16:53:52
+
+##############################
+Log started on 29/05/2013 16:55:08
+
+##############################
+Log started on 29/05/2013 16:57:20
+
+##############################
+Log started on 29/05/2013 17:02:32
+
+##############################
+Log started on 29/05/2013 17:04:01
+
+##############################
+Log started on 29/05/2013 17:06:23
+
+##############################
+Log started on 29/05/2013 17:11:24
+
+##############################
+Log started on 29/05/2013 17:22:22
+
+##############################
+Log started on 29/05/2013 17:29:01
+
+##############################
+Log started on 29/05/2013 19:21:13
+
+##############################
+Log started on 29/05/2013 19:28:39
+
+29/05/2013 19:29:18: 127.0.0.1: Crafting 0x40006068 (Katana) with craft system DefBlacksmithy
+29/05/2013 19:29:32: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'props '
+29/05/2013 19:30:27: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'Resource' of 0x40006068 (Katana) to 'Gold'

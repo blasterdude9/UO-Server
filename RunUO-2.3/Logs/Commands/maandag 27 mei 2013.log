@@ -1,0 +1,29 @@
+##############################
+Log started on 27/05/2013 20:56:29
+
+27/05/2013 20:57:59: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'add plate'
+27/05/2013 20:58:00: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1494, 1638, 40) in Trammel: "plate"
+27/05/2013 20:58:00: 127.0.0.1: Serials: 0x400000ED; 
+27/05/2013 20:58:04: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+27/05/2013 20:58:05: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400000ED (Plate)
+27/05/2013 20:58:09: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'add '
+27/05/2013 20:58:38: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'add arms'
+27/05/2013 20:59:01: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1494, 1637, 40) in Trammel: "PlateArms"
+27/05/2013 20:59:01: 127.0.0.1: Serials: 0x400000F3; 
+27/05/2013 20:59:08: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1495, 1638, 40) in Trammel: "PlateChest"
+27/05/2013 20:59:08: 127.0.0.1: Serials: 0x400000F4; 
+27/05/2013 20:59:17: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1494, 1638, 40) in Trammel: "PlateGloves"
+27/05/2013 20:59:17: 127.0.0.1: Serials: 0x400000FF; 
+27/05/2013 20:59:24: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1496, 1638, 40) in Trammel: "PlateGorget"
+27/05/2013 20:59:24: 127.0.0.1: Serials: 0x400055CA; 
+27/05/2013 20:59:33: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1493, 1638, 40) in Trammel: "PlateLegs"
+27/05/2013 20:59:33: 127.0.0.1: Serials: 0x400055D4; 
+27/05/2013 21:00:21: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'add platehelm'
+27/05/2013 21:00:23: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1494, 1639, 40) in Trammel: "platehelm"
+27/05/2013 21:00:23: 127.0.0.1: Serials: 0x40005862; 
+27/05/2013 21:01:16: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'props '
+27/05/2013 21:02:00: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set int 125'
+27/05/2013 21:02:02: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'int' of 0x1 "Drabzes" ('giel') to '125'
+##############################
+Log started on 27/05/2013 21:03:59
+

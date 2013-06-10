@@ -1,0 +1,44 @@
+##############################
+Log started on 22/05/2013 18:45:47
+
+##############################
+Log started on 22/05/2013 18:56:25
+
+##############################
+Log started on 22/05/2013 19:01:19
+
+22/05/2013 19:05:58: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'add dex 100'
+22/05/2013 19:06:06: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'set dex 100'
+22/05/2013 19:06:08: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') set property 'dex' of 0x1 "Drabzes" ('giel') to '100'
+##############################
+Log started on 22/05/2013 19:13:06
+
+##############################
+Log started on 22/05/2013 19:15:56
+
+##############################
+Log started on 22/05/2013 19:24:33
+
+22/05/2013 19:34:52: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+22/05/2013 19:34:54: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400000F3 (Doublet)
+22/05/2013 19:34:55: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+22/05/2013 19:34:55: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400000F4 (ShortPants)
+22/05/2013 19:34:56: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+22/05/2013 19:34:57: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x400000ED (Robe)
+22/05/2013 19:34:59: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'remove '
+22/05/2013 19:35:00: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') deleting 0x40006068 (PlateLegs)
+22/05/2013 19:35:03: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') used command 'add robe'
+22/05/2013 19:35:04: 127.0.0.1: Owner 0x1 "Drabzes" ('giel') building at (1492, 1638, 40) in Trammel: "robe"
+22/05/2013 19:35:04: 127.0.0.1: Serials: 0x400062C8; 
+##############################
+Log started on 22/05/2013 22:21:56
+
+##############################
+Log started on 22/05/2013 22:25:21
+
+##############################
+Log started on 22/05/2013 22:27:02
+
+##############################
+Log started on 22/05/2013 22:30:17
+
