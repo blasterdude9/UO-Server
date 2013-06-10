@@ -1,0 +1,9 @@
+Edit DataPath.cs
+row 16: private static string CustomPath = @"*insert path*";
+
+
+Use razor to start up your Ultima Online client.
+Server: localhost porst: 2593
+
+
+go to RunUO-2.3\Saves\Accounts and remove accounts to make your own owner account.
