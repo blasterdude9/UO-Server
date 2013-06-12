@@ -1,3 +1,5 @@
+// Made a option to change Regenrates for metidation but aren't active yet: 12/06/2013 - Giel
+
 using System;
 using Server;
 using Server.Items;
@@ -211,13 +213,14 @@ namespace Server.Misc
 			{
 				default:
 				// You can now meditate through every armor without a penalty;
-				// case ArmorMeditationAllowance.None: return ar.BaseArmorRatingScaled;
-				// case ArmorMeditationAllowance.Half: return ar.BaseArmorRatingScaled / 2.0;
-				// case ArmorMeditationAllowance.All:  return 0.0;
-				
-				case ArmorMeditationAllowance.None: return 0.0;
-				case ArmorMeditationAllowance.Half: return 0.0;
+				case ArmorMeditationAllowance.None: return ar.BaseArmorRatingScaled;
+				case ArmorMeditationAllowance.Half: return ar.BaseArmorRatingScaled / 2.0;
 				case ArmorMeditationAllowance.All:  return 0.0;
+				
+				// If you can meditate everywhere
+				// case ArmorMeditationAllowance.None: return 0.0;
+				// case ArmorMeditationAllowance.Half: return 0.0;
+				// case ArmorMeditationAllowance.All:  return 0.0;
 			}
 		}
 	}

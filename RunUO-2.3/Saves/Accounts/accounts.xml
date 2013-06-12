@@ -1,15 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<accounts count="1">
+<accounts count="2">
 	<account>
 		<username>giel</username>
 		<newCryptPassword>AA-E3-14-9D-BC-D7-76-3C-3B-B6-C9-01-1B-40-C4-09-0E-5C-80-9F</newCryptPassword>
 		<accessLevel>Owner</accessLevel>
 		<created>2013-04-24T18:22:06.953309+02:00</created>
-		<lastLogin>2013-05-29T19:28:45.690164+02:00</lastLogin>
-		<totalGameTime>PT8H48M14.0137858S</totalGameTime>
+		<lastLogin>2013-06-12T21:40:44.8648269+02:00</lastLogin>
+		<totalGameTime>PT9H13M6.7501654S</totalGameTime>
 		<chars>
 			<char index="0">1</char>
-			<char index="1">2421</char>
+		</chars>
+		<comments>
+			<comment addedBy="System" lastModified="2013-06-12T21:34:35.7417143+02:00">Character #2 0x975 "Jafner" deleted by 127.0.0.1</comment>
+		</comments>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>arno</username>
+		<newCryptPassword>67-E3-E5-E0-43-03-93-4D-43-E0-B7-2C-7C-AB-1E-C0-DA-70-EF-85</newCryptPassword>
+		<accessLevel>Administrator</accessLevel>
+		<created>2013-06-12T21:40:49.1600726+02:00</created>
+		<lastLogin>2013-06-12T22:04:17.4806239+02:00</lastLogin>
+		<totalGameTime>PT12M29.7428828S</totalGameTime>
+		<chars>
+			<char index="0">2377</char>
+			<char index="1">2422</char>
 		</chars>
 		<addressList count="1">
 			<ip>127.0.0.1</ip>
